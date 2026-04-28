@@ -3,7 +3,7 @@
 An interactive website created to learn cricket basics in a simple way.
 
 ##  Live website
-  https://nxneha1909.github.io/my-cricket-site/
+ 
 
 ## Features
 -  Basic rules of cricket
