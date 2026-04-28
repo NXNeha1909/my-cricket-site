@@ -14,4 +14,4 @@ An interactive website created to learn cricket basics in a simple way.
 
 ##  Author
 - Neha
--
+
